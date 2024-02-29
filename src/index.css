@@ -1,0 +1,12 @@
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	/* box-sizing: border-box; */
+	font-family: 'Work Sans', sans-serif;
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+	min-height: 100vh;
+	background-color: hsl(275, 100%, 97%);
+}
